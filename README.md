@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikekebede
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Gustavus Adolphus college
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on versatile projects
 - 📫 How to reach me - mikyasyesigat@gmail.com | https://www.linkedin.com/in/mikyaskebede
 
 <!---
